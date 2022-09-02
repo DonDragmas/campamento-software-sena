@@ -1,0 +1,13 @@
+[
+    {
+        "name" : "Carlos Chala",
+        "email" : "cachala@misena.edu.co",
+        "password" : 123456 
+    },
+    {
+        "name" : "Jose Pelaez",
+        "email" : "jopela@misena.edu.co",
+        "password" : 123456 
+    }
+
+]
